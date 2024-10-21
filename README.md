@@ -11,13 +11,25 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jad;+And+This+Is+My+GitHub" />
 </h1>
 
+<h3 align="center">A Beginner Full Stack developer From Lebanon</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<div align="center">
+ 
+ 🌱 I’m currently learning **FCS course with SE Factory**
+
+💬 You Can Check My **web development and mobile develpment projects on my GitHub,(https://github.com/JadMohammadHajali)**
+
+📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:jadhajali773@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+
+
+
+ </div>
