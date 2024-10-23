@@ -3,17 +3,20 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jad;+And+This+Is+My+GitHub" />
 </h1>
 
-<h3 align="center">A Beginner Full Stack developer From Lebanon</h3>
+<h3 align="center">🌟 Full Stack Web Developer in Training 🌟
+
+I'm currently taking the FCS course at SE Factory, where I'm honing my skills to become a Full Stack Web Developer. I’m passionate about building dynamic and responsive web applications, and I'm excited to dive into both front-end and back-end technologies.</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **FCS course with SE Factory**
+ 
+🔧 Technologies I'm Learning:**python,algorithms,Data Structure,objective oriented**
+ 
+ 💡 Let's Connect: I'm always eager to collaborate and learn from others. Feel free to reach out if you want to chat about development, share tips, or work on a project together!
 
-💬 You Can Check My **web development and mobile develpment projects on my GitHub,(https://github.com/JadMohammadHajali)**
-
-📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
+ 📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
 </div>
  
 <div align="center"> 
@@ -41,7 +44,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JadMohammadHajali/JadMohammadHajali /output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JadMohammadHajali/JadMohammadHajali/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
