@@ -34,7 +34,7 @@ I'm currently taking the FCS course at SE Factory, where I'm honing my skills to
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,firebase,c,java,mysql,flutter,php,algol" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,firebase,c,java,mysql,flutter,php,git" />
 </div>
 
 
