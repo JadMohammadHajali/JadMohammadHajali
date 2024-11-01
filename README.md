@@ -1,8 +1,4 @@
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+To+My+GitHub" />
-</h1>
-
 <h3 align="center">🌟 Full Stack Web Developer in Training 🌟
 
 I'm currently taking the FCS course at SE Factory, where I'm honing my skills to become a Full Stack Web Developer. I’m passionate about building dynamic and responsive web applications, and I'm excited to dive into both front-end and back-end technologies.</h3>
