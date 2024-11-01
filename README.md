@@ -18,13 +18,6 @@ I'm currently taking the FCS course at SE Factory, where I'm honing my skills to
 
  📫 Email me at **[jadhajali773@gmail.com](mailto:jadhajali773@gmail.com)**
 </div>
- 
-<div align="center"> 
-  <a href="mailto:jadhajali773@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-   
- </div>
 
 
  <hr/>
