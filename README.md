@@ -1,5 +1,5 @@
 
-<h3 align="center">🌟 Full Stack Web Developer in Training 🌟
+<h3 align="center">🌟 Full Stack Web Developer From Lebanon 🌟
 
 I'm currently taking the FCS course at SE Factory, where I'm honing my skills to become a Full Stack Web Developer. I’m passionate about building dynamic and responsive web applications, and I'm excited to dive into both front-end and back-end technologies.</h3>
 
@@ -8,7 +8,7 @@ I'm currently taking the FCS course at SE Factory, where I'm honing my skills to
 <div align="center">
  
  
-🔧 Technologies I'm Learning:**python,algorithms,Data Structure,objective oriented**
+🔧 Technologies I'm Learning:**python, algorithms, Data Structure, objective oriented**
  
  💡 Let's Connect: I'm always eager to collaborate and learn from others. Feel free to reach out if you want to chat about development, share tips, or work on a project together!
 
