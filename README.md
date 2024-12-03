@@ -42,7 +42,7 @@ I'm currently taking the FCS course at SE Factory, where I'm honing my skills to
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-JadHajali1.vercel.app/?user=JadHajali1&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=JadHajali1&show_icons=true&theme=transparent"/>
   <img width=400 src="https://github-readme-stats.vercel.app/api?username=JadHajali1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   
